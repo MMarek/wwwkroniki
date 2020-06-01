@@ -55,12 +55,12 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-user:before { content: '\e800'; } /* '' */
-.icon-camera:before { content: '\e801'; } /* '' */
-.icon-mail:before { content: '\e802'; } /* '' */
+.icon-user:before { content: '\e800'; font-size: 76px; margin-top: 20px} /* '' */
+.icon-camera:before { content: '\e801'; font-size: 76px; margin-top: 20px} /* '' */
+.icon-mail:before { content: '\e802'; font-size: 76px; margin-top: 20px} /* '' */
 .icon-facebook:before { content: '\f052'; font-size: 76px; margin-top: 32px} /* '' */
 .icon-twitter:before { content: '\f058'; font-size: 76px; margin-top: 32px} /* '' */
 .icon-gplus:before { content: '\f05a'; font-size: 76px; margin-top: 32px} /* '' */
 .icon-instagram:before { content: '\f05d'; font-size: 76px; margin-top: 32px} /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
-.icon-thumbs-up-alt:before { content: '\f164'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\f164'; font-size: 76px; margin-top: 20px} /* '' */
